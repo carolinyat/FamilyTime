@@ -1,0 +1,8 @@
+#Instalar dependencias: 
+
+python -m pip install -r requirements.txt
+
+ 
+
+
+> Trabalho de Banco de Dados 2 (Bancos não relacionais - Grafos)
