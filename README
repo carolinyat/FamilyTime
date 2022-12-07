@@ -1,6 +1,6 @@
 > Trabalho de Banco de Dados 2 (Bancos não relacionais - Grafos)
 
-## Como executar?
+# Como executar?
 1. Instale as dependências:
     python -m pip install -r requirements.txt
     
